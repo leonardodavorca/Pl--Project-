@@ -1,3 +1,4 @@
+# use translator to translate pl code! 
 # pl-
 
 A very simple programming language for beginners. pl- has only a few words, no curly braces, and no semicolons. Every block of code ends with the word `end`.
